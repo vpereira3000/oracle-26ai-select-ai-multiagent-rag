@@ -1,0 +1,7 @@
+*.local.sql
+*.zip
+*.sso
+*.p12
+*.jks
+.env
+.env.*
